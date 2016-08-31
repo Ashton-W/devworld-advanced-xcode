@@ -9,6 +9,9 @@ PDF and Keynote slides are available in this repo.
 
 #### Scripts
 
+- **RemoveATSExceptions Xcode Build Phase Script**  
+https://gist.github.com/Ashton-W/07654259322e43a2b6a50bb289e72627
+
 - **CopyConfigurationResources Xcode Build Phase Script**  
 https://gist.github.com/Ashton-W/a47ec8b128ecbe470632
 
